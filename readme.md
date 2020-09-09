@@ -4,8 +4,8 @@ jmini3d-demo
 Minimalistic OpenGL2 3d engine for Android.
 This is a fork of https://github.com/mobialia/jmini3d
 
-This repo contains only the android demo compiled
-This project was compiled using Android Studio 4.0 and Gradle 6.1.1
+This repo contains only the android demo.
+Compiled using Android Studio 4.0 and Gradle 6.1.1
 
 For documentation about the engine please visit original repository.
 
