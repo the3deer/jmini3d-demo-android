@@ -1,6 +1,8 @@
 jmini3d-demo
 ============
 
+https://travis-ci.org/the3deers/jmini3d-demo-android.svg?branch=master
+
 Minimalistic OpenGL2 3d engine for Android.
 This is a fork of https://github.com/mobialia/jmini3d
 
